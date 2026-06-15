@@ -4,11 +4,71 @@ Original URL: https://www.reddit.com/r/FIU/comments/1g7kep6/what_cs_professors_a
 Topic: FIU CS professor recommendations
 
 Content:
-PASTE THE USEFUL STUDENT COMMENTS HERE.
 
-What to copy:
-- The original post question
-- Comments that recommend professors
-- Comments that warn against professors
-- Comments mentioning specific courses like COP 4610, CEN 4010, COP 4710, CAP 4104
-- Do NOT copy Reddit menus, ads, login text, or unrelated comments
+Original post
+
+What CS Professors are actually good?
+Academics 📚
+Why do so many CS professors struggle to teach the material effectively? Either the reviews on Rate My Professor are misleading or I’m just picking the wrong ones. Do you have any recommendations for good professors? These are the classes I have to take for spring if there are any professors you recommend let me know please.
+
+COP 4610 (3)
+
+CEN 4010 (3)
+
+COP 4710 (Systems Elective) (3)
+
+CAP 4104 (Applications Elective) (3)
+
+PHI 2600 (Minor class Normative Foundations Courses) (3)
+
+
+Comments:
+
+bisuccle
+•
+2y ago
+I finished my undergrad a few years ago so the people who teach these courses may have changed a bit.
+
+COP 4610 - Kianoosh Boroojeni
+
+CEN 4010 - Kianoosh Boroojeni
+
+COP 4710 - Sergio Piasno
+
+COP 4104- Gregory Murad Reis
+
+Kianoosh is probably one of the better professors if you apply yourself. He goes into a bunch of detail, he’s passionate about the subject and curves like a mad man.
+
+Gregory Murad Reis is by far my favorite CS professor that I had at FIU. The man is a good teacher and is extremely passionate about the subjects he teaches. He also directly works on robotics projects both with students and industry professionals designed to research and prevent algae blooms in Biscayne bay. I took him for COP 4555 (Principles of Programming Languages) but I saw him teaching COP 4104.
+
+Sergio Pisano is okay, he primarily teaches online courses and thats who i took COP4710 with. No complaints, but the online format sucks.
+
+Antonio Hernandez is also a decent professor though his focus is mainly the mathematics behind algorithms. I took him for Data Structures and Algorithm Techniques. Good professor but his lectures are very math heavy.
+
+
+Upvote
+3
+
+Downvote
+
+Award
+
+Share
+
+
+Arkane2030
+•
+2y ago
+u/Wtfisupkyle03 avatar
+Wtfisupkyle03
+•
+2y ago
+COP 4610: Kianoosh Boroojeni or Eddie Monteiro
+
+CEN 4010: Alejandro Roque
+
+COP 4710: Sergio Pisano
+
+CAP 4104: Gregory Reis
+
+Other professors to take for different CS classes are Richard Whittaker and Antonio Hernandez.

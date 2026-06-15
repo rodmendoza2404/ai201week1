@@ -20,16 +20,16 @@
 
 | # | Source | Description | URL or location |
 |---|--------|-------------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| 1 | Reviews for Professor/Course 1 | documents/professor_1_reviews.txt |
+| 2 | Reviews for Professor/Course 2 | documents/professor_2_reviews.txt |
+| 3 | Reviews for Professor/Course 3 | documents/professor_3_reviews.txt |
+| 4 | Reviews for Professor/Course 4 | documents/professor_4_reviews.txt |
+| 5 | Reviews for Professor/Course 5 | documents/professor_5_reviews.txt |
+| 6 | Student thread about course workload | documents/course_workload_thread.txt |
+| 7 | Student advice about exams | documents/exam_advice.txt |
+| 8 | Student advice about projects | documents/project_advice.txt |
+| 9 | Student advice about class difficulty | documents/class_difficulty.txt |
+| 10 | Student advice about registration | documents/registration_advice.txt |
 
 ---
 
