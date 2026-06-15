@@ -1,0 +1,117 @@
+Source title: FIU Computer Science major experience
+Source type: Reddit thread
+Original URL: https://www.reddit.com/r/FIU/comments/1f5j4vt/how_is_computer_science/
+Topic: FIU CS student advice and major experience
+
+Content:
+PASTE THE USEFUL STUDENT COMMENTS HERE.
+
+What to copy:
+- The original post question
+- Comments about how students describe the FIU CS program
+- Comments about waitlists, professors, course quality, workload, or advice
+- Do NOT copy Reddit menus, ads, login text, cookie banners, or unrelated posts
+
+
+Main questions:
+How is Computer Science?
+Academics 📚
+Hello! I am an international student and planning to attend FIU in spring 2025.
+
+Can anyone tell me about their experience as a CS major.
+
+Also, are there waitlist problems in CS courses?
+
+-IntoTheUnknown
+•
+2y ago
+Cs major here graduating next semester- yes the courses are super saturated. Unless you’re priority registration (like having honors) you can’t expect to get the class you want to get. You’ll probably end up with a bad professor or a brand new one. Also it’s happened a lot where the professors will be swapped from a class a couple of weeks before it even begins, and you’ll end up with a random professor.
+
+Having a good professor will make or break you most of the time tbh, when it comes to difficulty in course loads and exams. However, you’ll be fine no matter what as long as you learn the following: Java, C, and Python. As long as you learn these languages before you start here, you’ll be 100% golden and probably have a cake walk, at least up until you hit Systems Programming (Pretty difficult).
+
+Professors I recommend are : Kianoush , Whittaker, Reiss, Waqas. Also a lot of the professors here aren’t from the US so it may be difficult to understand them at first but you get used to it. And even though I redolent those professors the most, they still have their individual flaws. For instance, with Kianoush, his assignments and tests are notoriously difficult, but as long as you try a bit, you’ll pass no matter what. He’s know as a huge curver.
+
+However, since people know this about Kianoush, his classes fill up the first hour or so of registration. I had senior registration for his OS class and ended up being waitlisted as a 3rd spot. I got up to 1st spot a couple days before the semester began but was never able to get in. It’s insane.
+
+TLDR: Course difficulty is pretty much professor dependent, expect course registration to be extremely saturated, in order to be above the rest, learn some Java first, then C, then Python before you begin here. You don’t even have to master these, just familiarize yourself with them and you’ll be golden.
+
+
+
+Upvote
+20
+
+Downvote
+
+Award
+
+Share
+
+SavingsAd9158
+•
+2y ago
+This person knows what they're talking about. I second.
+
+
+Upvote
+6
+
+Downvote
+
+Award
+
+Share
+
+[deleted]
+•
+2y ago
+How the internship scene like is INIT good for networking and getting opportunities in big tech and faang? Is fiu worth it
+
+
+
+Upvote
+5
+
+Downvote
+
+Award
+
+Share
+
+-IntoTheUnknown
+•
+2y ago
+They have a ton of opportunities ngl. Yea fiu is not know as a cs school, it’s not an ivy or a t50 or whatever, but bro… there’s a LOT of companies that stop by. I’ve had a lot of friends that have gotten internships at good companies, some of them at places like Google and Nvidia. Other friends who aren’t even that good at programming who have gotten internships too from attending events. There are a lot of people who don’t get them though. But the majority who don’t get internships are really bad at networking, which is TRULY the key man. But yea almost all my friend got internships. I got one too but not at a bigger company, rather a local one to Miami. Honestly, as long as you apply yourself a little, network a lot, and attend events like ShellHacks and INIT meetings, there’s a GOOD chance you’ll get an internship. HOWEVER, if you’re an international student, that’s a whole other struggle and unfortunately it’s a lot harder for them regardless of their skills.
+
+
+Upvote
+10
+
+Downvote
+
+Award
+
+Share
+
+
+1 more reply
+u/Alvi2004 avatar
+Alvi2004
+•
+1y ago
+Hi I know this is off topic but I was wondering if you and your friends graduating in CS were able to land jobs? Given the current economy, I’m sorta demotivated and sad cus I feel like all the hard work I’ll put might go to waste
+
+
+Upvote
+1
+
+Downvote
+
+Award
+
+Share
+
+u/UrbanLeche avatar
+UrbanLeche
+•
+2y ago
+Graduated in Fall 2022, my main piece of advice is avoid Caryl Rahn at all costs. She’s a horrible “instructor” (if you could even call her that). I honestly only recommend taking her if you already have a good grasp on coding and knowledge of the class. Her assignments aren’t too bad, but if your code for whatever small reason has any kind of compilation error when she runs it, it’s an automatic 0, no exceptions. So if you have the misfortune of being stuck with her know your assignments will be graded very harshly against her rubric and you will receive no feedback other than your grade

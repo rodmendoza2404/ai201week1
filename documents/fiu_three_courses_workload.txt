@@ -1,0 +1,146 @@
+Source title: Are these 3 courses doable in one semester?
+Source type: Reddit thread
+Original URL: https://www.reddit.com/r/FIU/comments/126o8sv/are_these_3_courses_doable_in_one_semester/
+Topic: FIU CS course workload and semester planning
+
+Content:
+
+Orgiinal Post:
+
+Go to FIU
+r/FIU
+•
+3y ago
+berniexanderz
+
+Are these 3 courses doable in one semester?
+Help
+I’m planning to take CDA 3102 (Computer Architecture), COP 3530 (Data Structures), and COP 4338 (Systems Programming) in the fall. I’ve heard that these 3 classes each on their own are pretty difficult. Am I crazy for taking all 3? For what it’s worth, I’d also be working part-time during this semester. Is the workload manageable?
+
+Comments:
+
+PKAstra
+•
+3y ago
+I'm doing those 3 with software engineering right now. At first it can be a little overwhelming but it's doable once you get in the rhythm of it, it's also helpful to remind yourself you're done with core classes after that semester to keep yourself motivated(except for OS, assuming you're in the BA). What teachers did you get?
+
+
+
+Upvote
+4
+
+Downvote
+
+Award
+
+Share
+
+berniexanderz
+OP
+•
+3y ago
+Kianoosh for both Computer Architecture and Systems Programming, and Hernández for Data Structures
+
+
+
+Upvote
+2
+
+Downvote
+
+Award
+
+Share
+
+PKAstra
+•
+3y ago
+Those are my exact teachers for each of those subjects. Hernandez is great and he teaches data structures really well, you probably won't have any trouble with him. Kianoush does have really hard tests and tough assignments but he curves really heavy so you shouldn't be in much danger.
+
+
+Upvote
+1
+
+Downvote
+
+Award
+
+Share
+
+andresq1
+•
+3y ago
+You're gonna do great with anything with Kianoosh that guy is the bomb
+
+
+Upvote
+1
+
+Downvote
+
+Award
+
+Share
+
+u/Chasitydacers avatar
+Chasitydacers
+•
+3y ago
+How did it go for you? Also we’re you working while doing these courses?
+
+
+Upvote
+1
+
+Downvote
+
+Award
+
+Share
+
+budgeroo
+•
+3y ago
+Following, I picked a similar schedule
+
+
+Upvote
+1
+
+Downvote
+
+Award
+
+Share
+
+u/Ubisuccle avatar
+Ubisuccle
+•
+3y ago
+I did it. Its doable, it’ll be a little rough though. It’ll really come down to your investment and your professors.
+
+
+Upvote
+1
+
+Downvote
+
+Award
+
+Share
+
+MicSquared
+•
+3y ago
+Kianoosh (easiest grader) and Hernandez (one of the best) are great teachers. It’s not necessarily that they are hard classes but they are some of the most important. Like jobs will interview you on Data Structures. So it’s doable in terms of workload imo but I would treat these classes with a little more attention. Better notes. Fresh notebook. Ask questions. CDA is an absolute snooze fest tho. But even Apple will ask what does RAM or the CPU do.
+
+
+Upvote
+1
+
+Downvote
+
+Award
+
+Share
+

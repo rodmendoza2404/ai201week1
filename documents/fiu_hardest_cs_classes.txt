@@ -1,0 +1,157 @@
+Source title: Computer science majors: Hardest classes?
+Source type: Reddit thread
+Original URL: https://www.reddit.com/r/FIU/comments/j55ivh/computer_science_majors_hardest_classes/
+Topic: Hardest FIU CS classes
+
+Content:
+PASTE THE USEFUL STUDENT COMMENTS HERE.
+
+What to copy:
+- The original question asking about hardest or weed-out CS classes
+- Comments mentioning Programming 3, Operating Systems, Data Structures, Algorithms, or other hard CS classes
+- Comments giving advice about how to prepare
+- Do NOT copy Reddit menus, ads, login text, or unrelated posts
+
+Original Post: 
+Computer science majors: Hardest classes?
+For those that are further into the major. What were your hardest and/or weed out classes?
+
+
+Comments:
+
+RaulFaife
+•
+6y ago
+If you want to know more about CS at FIU I recommend joining UPE at FIU, a lot of the people at UPE get internships at large tech companies and you will learn a lot that will help in your classes. we also play a lot of videos games lol
+
+https://discord.gg/upefiu
+https://upe.cs.fiu.edu/
+
+
+
+Upvote
+2
+
+Downvote
+
+Award
+
+Share
+
+[deleted]
+OP
+•
+6y ago
+Thanks man!!
+
+
+Upvote
+1
+
+Downvote
+
+Award
+
+Share
+
+u/narama125 avatar
+narama125
+•
+6y ago
+•
+Edited 6y ago
+Agreed with what other person said about prog3 and OS and want to add that my biggest adivice is to stay away from shaw, feild and rhan
+
+
+
+Upvote
+14
+
+Downvote
+
+Award
+
+Share
+
+u/chrisychris- avatar
+chrisychris-
+•
+6y ago
+I took Shaw for prog2, he wasn’t as bad as people made him out to be.
+
++1 on avoiding the other two though
+
+
+Upvote
+2
+
+Downvote
+
+Award
+
+Share
+
+aherowon
+•
+6y ago
+Programming 3 and Operating Systems for me. Review your C knowledge. Data Structures/Algorithms was a bit tough but I had a good instructor.
+
+
+Upvote
+3
+
+Downvote
+
+Award
+
+Share
+
+u/zorinlynx avatar
+zorinlynx
+•
+6y ago
+It's been a while since I graduated, but one class I like to warn folks about is Discrete Mathematics.
+
+It's one of those courses that sounds easy but actually requires an unexpected amount of study and effort. You're going to have to learn how to formulate mathematical proofs, which requires a new way of thinking you might not be used to.
+
+Discrete Math is not an impossible course, but it's one that you should be prepared for so it doesn't catch you unawares. (like it did me!)
+
+
+Upvote
+3
+
+Downvote
+
+Award
+
+Share
+
+[deleted]
+•
+6y ago
+OS for sure. Study study study.
+
+
+Upvote
+2
+
+Kingalec1
+•
+6y ago
+Data Structures
+
+
+Upvote
+1
+
+Downvote
+
+Award
+
+Share
+
+u/chrisychris- avatar
+chrisychris-
+•
+6y ago
+Discrete Maths. I took OS with Robinson, didn’t know the course and Robinson himself were known to be difficult until after I passed the class. I liked him as a person but I can see his teaching criticisms
