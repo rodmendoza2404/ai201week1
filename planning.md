@@ -20,16 +20,16 @@
 
 | # | Source | Description | URL or location |
 |---|--------|-------------|-----------------|
-| 1 | Reviews for Professor/Course 1 | documents/professor_1_reviews.txt |
-| 2 | Reviews for Professor/Course 2 | documents/professor_2_reviews.txt |
-| 3 | Reviews for Professor/Course 3 | documents/professor_3_reviews.txt |
-| 4 | Reviews for Professor/Course 4 | documents/professor_4_reviews.txt |
-| 5 | Reviews for Professor/Course 5 | documents/professor_5_reviews.txt |
-| 6 | Student thread about course workload | documents/course_workload_thread.txt |
-| 7 | Student advice about exams | documents/exam_advice.txt |
-| 8 | Student advice about projects | documents/project_advice.txt |
-| 9 | Student advice about class difficulty | documents/class_difficulty.txt |
-| 10 | Student advice about registration | documents/registration_advice.txt |
+| 1 | Reddit thread about FIU Computer Science major experience | documents/fiu_cs_major_experience.txt | https://www.reddit.com/r/FIU/comments/1f5j4vt/how_is_computer_science/ |
+| 2 | Reddit thread asking which FIU CS professors are good | documents/fiu_cs_professors_good.txt | https://www.reddit.com/r/FIU/comments/1g7kep6/what_cs_professors_are_actually_good/ |
+| 3 | Reddit thread about hardest FIU CS classes | documents/fiu_hardest_cs_classes.txt | https://www.reddit.com/r/FIU/comments/j55ivh/computer_science_majors_hardest_classes/ |
+| 4 | Reddit thread about taking CDA 3102, COP 3530, and COP 4338 together | documents/fiu_three_courses_workload.txt | https://www.reddit.com/r/FIU/comments/126o8sv/are_these_3_courses_doable_in_one_semester/ |
+| 5 | Reddit thread about picking FIU CS professors | documents/fiu_help_picking_cs_professors.txt | https://www.reddit.com/r/FIU/comments/jry3og/help_picking_cs_professors/ |
+| 6 | Rate My Professors reviews for Antonio Hernandez | documents/antonio_hernandez_reviews.txt | https://www.ratemyprofessors.com/professor/2370429 |
+| 7 | Rate My Professors reviews for Antonio Bajuelos | documents/antonio_bajuelos_reviews.txt | https://www.ratemyprofessors.com/professor/2007165 |
+| 8 | Rate My Professors reviews for Mark Weiss | documents/mark_weiss_reviews.txt | https://www.ratemyprofessors.com/professor/129106 |
+| 9 | Rate My Professors reviews for Eric Ackerman | documents/eric_ackerman_reviews.txt | https://www.ratemyprofessors.com/professor/3004879 |
+| 10 | Rate My Professors reviews for Niemah Osman | documents/niemah_osman_reviews.txt | https://www.ratemyprofessors.com/professor/3027499 |
 
 ---
 
